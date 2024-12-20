@@ -1,3 +1,4 @@
+import os
 import re
 import requests
 import logging
@@ -5,7 +6,22 @@ from collections import OrderedDict
 from datetime import datetime
 import config
 
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s', handlers=[logging.FileHandler("function.log", "w", encoding="utf-8"), logging.StreamHandler()])
+# 确保日志文件存在
+os.makedirs(os.path.dirname("function.log"), exist_ok=True)
+
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s - %(levelname)s - %(message)s",
+    handlers=[
+        logging.FileHandler("function.log", "w", encoding="utf-8"),
+        logging.StreamHandler(),
+    ],
+)
+
+# 自动创建模板文件
+if not os.path.exists("demo.txt"):
+    with open("demo.txt", "w", encoding="utf-8") as f:
+        f.write("# 示例模板文件\n#genre# 分类1\n频道1\n频道2\n\n#genre# 分类2\n频道3\n")
 
 def parse_template(template_file):
     template_channels = OrderedDict()
@@ -115,6 +131,7 @@ def updateChannelUrlsM3U(channels, template_channels):
             if announcement['name'] is None:
                 announcement['name'] = current_date
 
+    # 自动创建 M3U 和 TXT 文件
     with open("live.m3u", "w", encoding="utf-8") as f_m3u:
         f_m3u.write(f"""#EXTM3U x-tvg-url={",".join(f'"{epg_url}"' for epg_url in config.epg_urls)}\n""")
 
