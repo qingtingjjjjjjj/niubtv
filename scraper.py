@@ -2,6 +2,7 @@ import aiohttp
 import asyncio
 import os
 import logging
+import re  # 用于正则匹配直播源链接
 from bs4 import BeautifulSoup
 import subprocess
 import sys
@@ -9,8 +10,12 @@ import sys
 # 设置日志记录
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-# 目标URL
-URL = "https://epg.pw/test_channel_page.html"
+# 目标URL列表
+URLS = [
+    "http://tonkiang.us",
+    "https://tv.cctv.com/live/"
+]
+
 TIMEOUT = 5  # 请求超时时间（秒）
 VALID_THRESHOLD = 2  # 响应时间阈值，2秒以内视为有效
 
@@ -44,17 +49,19 @@ def install_requirements():
         sys.exit(1)
 
 # 获取网页内容
-async def fetch_page_content():
+async def fetch_page_content(url):
     try:
         async with aiohttp.ClientSession() as session:
-            async with session.get(URL) as response:
+            async with session.get(url) as response:
                 if response.status == 200:
-                    return await response.text()
+                    html = await response.text()
+                    logging.info(f"获取网页内容成功，来自 {url}，内容如下：\n{html[:1000]}")  # 打印网页内容的前1000个字符
+                    return html
                 else:
-                    logging.error(f"获取网页内容失败，状态码：{response.status}")
+                    logging.error(f"获取网页内容失败，来自 {url}，状态码：{response.status}")
                     return None
     except Exception as e:
-        logging.error(f"获取网页内容时出错：{e}")
+        logging.error(f"获取网页内容时出错，来自 {url}：{e}")
         return None
 
 # 分类节目名称
@@ -81,21 +88,49 @@ async def test_speed(url):
         logging.error(f"测试直播源 {url} 时出错：{e}")
         return None, url, None
 
+# 正则表达式用于匹配直播源格式（http, rtmp, p3p, rtp 等）
+def match_live_source(url):
+    patterns = [
+        r'http://',  # http
+        r'rtmp://',  # rtmp
+        r'p3p://',   # p3p
+        r'rtsp://',  # rtsp
+        r'rtp://',   # rtp
+        r'p2p://'    # p2p
+    ]
+    
+    for pattern in patterns:
+        if re.match(pattern, url):
+            return True
+    return False
+
 # 解析网页内容并提取直播源
-def parse_live_sources(html_content):
+def parse_live_sources(html_content, url):
     soup = BeautifulSoup(html_content, 'html.parser')
-    channels = soup.find_all('div', class_='channel')  # 假设 <div class="channel"> 是节目容器
     live_sources = []
     
-    for channel in channels:
-        try:
-            name = channel.find('h2').text if channel.find('h2') else '未知频道'
-            link = channel.find('a')['href'] if channel.find('a') else None
-            
-            if link:
+    if url == "http://tonkiang.us":
+        # 假设所有 <a> 标签中的链接是直播源（可以根据实际网页结构调整）
+        channels = soup.find_all('a', href=True)
+        for channel in channels:
+            link = channel['href']
+            if match_live_source(link):
+                name = channel.text.strip()
                 live_sources.append((name, link))
-        except Exception as e:
-            logging.error(f"解析频道数据时出错：{e}")
+                logging.info(f"发现直播源：{name}, 链接：{link} - 来自 {url}")
+    
+    elif url == "https://tv.cctv.com/live/":
+        # 假设每个频道信息在 <div class="playItem"> 中（可以根据实际网页结构调整）
+        channels = soup.find_all('div', class_='playItem')
+        for channel in channels:
+            name = channel.find('span').text.strip() if channel.find('span') else '未知频道'
+            link = channel.find('a')['href'] if channel.find('a') else None
+            if link and match_live_source(link):
+                live_sources.append((name, link))
+                logging.info(f"发现直播源：{name}, 链接：{link} - 来自 {url}")
+    
+    if not live_sources:
+        logging.warning(f"未找到任何符合条件的直播源，来自 {url}。")
     
     return live_sources
 
@@ -142,17 +177,19 @@ def save_to_files(white_list, black_list, base_path="live_streams"):
 # 主程序
 async def main():
     install_requirements()  # 确保安装依赖
-    html_content = await fetch_page_content()
-    
-    if html_content:
-        live_sources = parse_live_sources(html_content)
-        if live_sources:
-            white_list, black_list = await test_and_categorize(live_sources)
-            save_to_files(white_list, black_list)
+
+    for url in URLS:
+        html_content = await fetch_page_content(url)
+        
+        if html_content:
+            live_sources = parse_live_sources(html_content, url)
+            if live_sources:
+                white_list, black_list = await test_and_categorize(live_sources)
+                save_to_files(white_list, black_list)
+            else:
+                logging.warning(f"未找到任何直播源，来自 {url}。")
         else:
-            logging.warning("未找到任何直播源。")
-    else:
-        logging.error("无法获取网页内容，程序终止。")
+            logging.error(f"无法获取网页内容，来自 {url}，程序终止。")
 
 # 启动爬虫程序
 if __name__ == "__main__":
