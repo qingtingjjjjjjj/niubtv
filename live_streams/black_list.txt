@@ -1,750 +1,750 @@
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000001/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000502/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000003/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000503/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000005/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000507/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000006/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000504/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000008/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000505/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000506/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000508/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000509/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000510/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000511/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000512/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000016/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::9]:80/270000001128/9900000513/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000516/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000523/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000518/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000025/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000530/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000514/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000527/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000529/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000520/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000034/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000524/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000525/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000057/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000027/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000531/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000037/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000522/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::9]:80/270000001128/9900000053/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000519/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000036/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000526/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000517/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000521/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000044/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000047/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000026/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000030/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000023/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000035/index.m3u8, 无法访问
-未知频道, http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/1.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000042/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000045/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000043/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000060/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000059/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000073/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000064/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000058/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000066/index.m3u8, 无法访问
-未知频道, http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000046/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000071/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000072/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000067/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000528/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000515/index.m3u8, 无法访问
-未知频道, http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281, 无法访问
-未知频道, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031112/1.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226203/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226176/index.m3u8, 无法访问
-未知频道, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000026105/1.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000040/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000039/index.m3u8, 无法访问
-未知频道, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031203/1.m3u8, 无法访问
-未知频道, http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031206/index.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=3, 无法访问
-未知频道, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031209/1.m3u8, 无法访问
-未知频道, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031114/1.m3u8, 无法访问
-未知频道, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031113/1.m3u8, 无法访问
-未知频道, http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000025964/1.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000097/index.m3u8, 无法访问
-未知频道, http://[2409:8087:5e01:24::16]:6610/000000001000/2000000003000000066/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000066&IASHttpSessionId=OTT19019320240419154124000281, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000070/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000069/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000096/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000095/index.m3u8, 无法访问
-未知频道, http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281, 无法访问
-未知频道, http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281, 无法访问
-未知频道, http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281, 无法访问
-未知频道, http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000119/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000118/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000120/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000020/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000021/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000022/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000092/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000115/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000101/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000107/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000113/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000099/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000102/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000109/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000108/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000100/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000110/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000116/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000091/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000122/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000019/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000112/index.m3u8, 无法访问
-未知频道, http://[2409:8087:74d9:21::6]:80/270000001128/9900000098/index.m3u8, 无法访问
-未知频道, http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&IASHttpSessionId=OTT19019320240419154124000281, 无法访问
-未知频道, http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000012&IASHttpSessionId=OTT19019320240419154124000281, 无法访问
-未知频道, http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001&IASHttpSessionId=OTT19019320240419154124000281, 无法访问
-未知频道, http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000010&IASHttpSessionId=OTT19019320240419154124000281, 无法访问
-未知频道, http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281, 无法访问
-未知频道, http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281, 无法访问
-未知频道, http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000090/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000090&IASHttpSessionId=OTT19019320240419154124000281, 无法访问
-未知频道, http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000014&IASHttpSessionId=OTT19019320240419154124000281, 无法访问
-未知频道, http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281, 无法访问
-未知频道, rtp://239.3.1.129:8008, 无法访问
-未知频道, rtp://239.3.1.60:8084, 无法访问
-未知频道, rtp://239.3.1.172:8001, 无法访问
-未知频道, rtp://239.3.1.105:8092, 无法访问
-未知频道, rtp://239.3.1.173:8001, 无法访问
-未知频道, rtp://239.3.1.174:8001, 无法访问
-未知频道, rtp://239.3.1.61:8104, 无法访问
-未知频道, rtp://239.3.1.175:8001, 无法访问
-未知频道, rtp://239.3.1.62:8112, 无法访问
-未知频道, rtp://239.3.1.63:8116, 无法访问
-未知频道, rtp://239.3.1.152:8120, 无法访问
-未知频道, rtp://239.3.1.64:8124, 无法访问
-未知频道, rtp://239.3.1.124:8128, 无法访问
-未知频道, rtp://239.3.1.65:8132, 无法访问
-未知频道, rtp://239.3.1.153:8136, 无法访问
-未知频道, rtp://239.3.1.184:8001, 无法访问
-未知频道, rtp://239.3.1.151:8144, 无法访问
-未知频道, rtp://239.3.1.245:2000, 无法访问
-未知频道, rtp://239.3.1.213:4220, 无法访问
-未知频道, rtp://239.3.1.214:4220, 无法访问
-未知频道, rtp://239.3.1.130:8004, 无法访问
-未知频道, rtp://239.3.1.57:8152, 无法访问
-未知频道, rtp://239.3.1.215:4220, 无法访问
-未知频道, rtp://239.3.1.216:4220, 无法访问
-未知频道, rtp://239.3.1.218:4220, 无法访问
-未知频道, rtp://239.3.1.217:4220, 无法访问
-未知频道, rtp://239.3.1.241:8000, 无法访问
-未知频道, rtp://239.3.1.136:8032, 无法访问
-未知频道, rtp://239.3.1.132:8012, 无法访问
-未知频道, rtp://239.3.1.137:8036, 无法访问
-未知频道, rtp://239.3.1.135:8028, 无法访问
-未知频道, rtp://239.3.1.123:8164, 无法访问
-未知频道, rtp://239.3.1.148:8072, 无法访问
-未知频道, rtp://239.3.1.134:8020, 无法访问
-未知频道, rtp://239.3.1.138:8044, 无法访问
-未知频道, rtp://239.3.1.148:8072, 无法访问
-未知频道, rtp://239.3.1.211:8064, 无法访问
-未知频道, rtp://239.3.1.209:8052, 无法访问
-未知频道, rtp://239.3.1.142:8048, 无法访问
-未知频道, rtp://239.3.1.149:8076, 无法访问
-未知频道, rtp://239.3.1.210:8056, 无法访问
-未知频道, rtp://239.3.1.122:8160, 无法访问
-未知频道, rtp://239.3.1.133:8016, 无法访问
-未知频道, rtp://239.3.1.240:8172, 无法访问
-未知频道, rtp://239.3.1.156:8148, 无法访问
-未知频道, rtp://239.3.1.159:8000, 无法访问
-未知频道, rtp://239.3.1.115:8000, 无法访问
-未知频道, rtp://239.3.1.117:8000, 无法访问
-未知频道, rtp://239.3.1.242:8000, 无法访问
-未知频道, rtp://239.3.1.158:8000, 无法访问
-未知频道, rtp://239.3.1.235:8000, 无法访问
-未知频道, rtp://239.3.1.243:8000, 无法访问
-未知频道, rtp://239.3.1.115:8000, 无法访问
-未知频道, rtp://239.3.1.189:8000, 无法访问
-未知频道, rtp://239.3.1.58:8156, 无法访问
-未知频道, rtp://239.3.1.212:8060, 无法访问
-未知频道, rtp://239.3.1.207:8001, 无法访问
-未知频道, rtp://239.3.1.203:8001, 无法访问
-未知频道, rtp://239.3.1.202:8001, 无法访问
-未知频道, rtp://239.3.1.204:8001, 无法访问
-未知频道, rtp://239.3.1.206:8001, 无法访问
-未知频道, rtp://239.3.1.208:8001, 无法访问
-未知频道, rtp://239.3.1.205:8001, 无法访问
-未知频道, rtp://239.3.1.201:8001, 无法访问
-未知频道, rtp://239.3.1.165:8001, 无法访问
-未知频道, rtp://239.3.1.164:8001, 无法访问
-未知频道, rtp://239.3.1.125:8001, 无法访问
-未知频道, rtp://239.3.1.126:8001, 无法访问
-未知频道, rtp://239.3.1.127:8001, 无法访问
-未知频道, rtp://239.3.1.128:8001, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=axn_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=cinemax_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=eyetvxiju_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=eyetvtravel_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=hbohd_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=fyi_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=hollywoodmovies_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=mtvhd_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=tlc_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=ettvnews, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=tvbs, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=tvbs_n, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=tvbshuanle_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=sanlitaiwan, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=sanlixiju_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=sanlizhonghe, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=ctiasia_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=ctient, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=ctinews, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=ctizhonghe, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=asiatravel_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=afc_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=badadrama, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=badafirst, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=badazhonghe, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=ctv_taiwan, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=ftvhd_taiwan, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=lunghuajingdian_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=ftvtaiwan_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=ftvnew_taiwan, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=ttv_taiwan, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=ttvnews_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=zhongshihd_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=zhongshinews_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=zhongshi_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=ctshd_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=weishichinese_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=daai_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=huanyuxinwen_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=huanyutaiwan_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=niandainews_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=eltayingju_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=eltasport_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=eltasport2_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=eltasport3_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=golfchannel_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=bositennis_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=bosisport1_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=bosisport2_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=bosigolf1_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=bosigolf2_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=discoverytwn_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=discoveryturbo_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=natgeohd_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=natgeowild_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=animalplanet_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=fashiontv_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=discoverytwn_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=discoveryhd_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=ettvdrama, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=ettvwestern, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=ettvzhonghe, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=ettvcaijing_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=ettvmovie, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=videolandjapan, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=videolandsport, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=meiyamovie_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=bbcnews_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=bloomberg_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=foxnews_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=arirang_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=momo1_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=jingtiancartoon_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=jingtianintl_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=feifannews_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=lungxiangtime_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=lunghuaidol_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=lunghuaxiju_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=lunghuawestern_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=lunghuajingdian_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=xingwei_movie, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=TV1, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=TV1_backup, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=TV2, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=TV3, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=tv3_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=NTV7, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=TV8, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=TV9, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Warna-O, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Warna, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Ria-0, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Ria49, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Ria_quanjia, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Alhijrah, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Alhijrah_backup, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Awani, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Bernama, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Prima-0, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Prima49, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Ceria, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=AstroMTV, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=quran_mido, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=sunnah_mido, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Oasis, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Hbo, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Hbosignature, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Hbohits, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Natgeowild, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Cn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Nickelodeon, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Nickjr, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Citra, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Sensasi, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Aura, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Rania, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Boo, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Awesome_mega, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=SetOne, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=KBS, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=TVN, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Astropremier, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=AEC, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Wlt, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Huahee, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Huahee_backup, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Quanjia, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Tvbjade, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Tvbasia, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Tvbentertainment, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Tvbclassic, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=AodHD, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=One_mega, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Xinhe, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Qiyi, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=AnimalPlanet, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Tvnmovie, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=cnn_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Celestial2, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=cnbc_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Rtmsport, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Tlc, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=cna, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=asiatravel_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=bbcnews_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Foodnetwork_mega, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=HGTV, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Arena, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Goshop, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Celestial_mega, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Arena2, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Axn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Paramountnetwork, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Bolaarena1, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Kplus, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Rockaction, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=bloomberg_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=aljazeera_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Rockentertain, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Showcase_mega, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Bolaarena2, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Channel5HD, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Ch5_mega, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Channel8HD, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Ch8_mega, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Suria, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Suria_backup, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=ChannelU, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=ChU_mega, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Vasantham, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Vasantham_mega, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=cna, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=cna_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=TVRI, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Rcti, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Kompass, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=BeritaSatu_eko, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Indosiar, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Antv, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Mnctv, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Trans7_eko, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Transtv, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=JTV_eko, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=metrotv_eko, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Cinemax, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=SCTV, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Tvone, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=TVMU_eko, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Gtv, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Rtv, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=JakTV, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Inewstv, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=DaaiTV, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=NetTV, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Animax, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Ewtn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=AlQuran, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=TawafTV, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=VisionPrime, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=MuslimTV, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=MusicTV, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Lifestyle, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Entertain, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Hits, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=WarnerTV, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Weishimovie, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Thrill, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Fs, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Bein2hd, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Hitsmovie, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=One_mega, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Tvnmovie, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Celestialindo, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Rockaction, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Rockentertain, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=j2_hkdavid, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=j2_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=rhk31_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=rhk32_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=tvbxinhe_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=viu1_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=viutv69_hkdavid, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=viusix_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=inews_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=tvbcaijing_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=pearl_hkdavid, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=pearl_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=jade_mike, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=jade_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=phoenixtv_hd, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=phoenixinfo_hd, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=hkphoenix_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=cctv1, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=cctv2, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=cctv3, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=cctv4, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Cctv4, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=cctv5, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=cctv5plus, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=cctv6, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=cctv7, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=cctv8hd, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=cctv9hd, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=cctv10hd, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=cctv11, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=cctv12, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=cctv13, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=cctv14, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=cctv15, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=cctv16, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=cctv17, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=hunan_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=jiangsu_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=shenzhen, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=nanfang_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=guangdongweishi_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=beijing, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=zhujiang, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=guangxi, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=hubei, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=sichuan_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=phoenixtv_hd, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=dongfangweishi_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=CGTN, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=phoenixinfo_hd, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Assp1, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=go_assp1, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Assp1_mega, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Assp2, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=go_assp2, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Assp3, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=go_assp3, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Assp3_mega, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Assp4_mega, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=go_assp4, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=go_assp5, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Beinhd, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Besports, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Champion5epl, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Wwe, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Champion6epl, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Fs, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=ufc_mega, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=nbatv_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Acricket_mega, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Agolf, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=beeone, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=beetwo, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=beethree, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=beefour, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=ten1_raj, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=ten2_raj, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=ten3_raj, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=go_spotv, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=go_spotv2, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Bein2hd, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=tiankongarena, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=tiankongf1, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=tiankongcricket, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=tiankongepl, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=tiankongfootball, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=tiankonggolf, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=tiankongmain, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=tiankongnews, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=tiankongnfl, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=tiankongracing, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=tiankongmix, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=cctv5, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=cctv5plus, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=eltasport2_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=eltasport3_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Rtmsport, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Arena, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Arena2, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Bolaarena1, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=bein1_mega, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=bein2_mega, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=bein3_mega, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=bein4_mega, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=bein5_mega, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=bein6_mega, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=bein7_mega, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Rugbypasstv, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Bolaarena2, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Suntv, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Starvijay, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Colorstam_mega, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Sunmusic, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Sunlife, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Vaanavil, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Zeetamil, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Zeebusiness, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=news18tamil_raj, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Adithya, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Makkaltv, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Zeeaction, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Astroktv, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Zeetvhd, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Zeecinemahd, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Colorhd, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Starplushd, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Npicture, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Zeenews, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=asianet_raj, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=asianetnews_raj, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=timesnow_mega, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=bbcearthtam_raj, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=discoveryworldtam_raj, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=historytam_raj, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=natgeotamil_raj, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=natgeowildtamil_raj, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=discoverykidtamil_raj, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=discoverytamil_raj, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=sonyyaytam_raj, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=suntv_raj, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=starmaa_raj, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=starmaamovies_raj, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Bollyone, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Sunmusic, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=sonypix_mega, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=vijaysuper_raj, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=axn_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Animax, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Kplus, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Axn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=cctv6, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=cinemax_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Celestial2, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Celestialindo, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Cinemax, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Hbofamily, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Hbo, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Hbohits, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Hbosignature, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=hbohd_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=hbohits_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Hitsmovie, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Hits, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=hollywoodmovies_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=moviesnow_raj, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=One_mega, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Paramountnetwork, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Rockaction, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Rockentertain, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Weishimovie, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=sonypix_mega, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=starmovies_raj, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Thrill, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=WarnerTV, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Tvnmovie, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=catchplay_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=xingwei_movie, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=ettvwestern, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=ettvmovie, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=meiyamovie_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=lunghuawestern_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=lungxiangtime_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=asiatravel_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=AnimalPlanet, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=animalplanet_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=asiatravel_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=bbcearth_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=bbclifestyle_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=ci_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=discoverytwn_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=discoveryhd_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=fashiontv_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Foodnetwork_mega, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=HGTV, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=History, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=mtvhd_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Natgeo, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Natgeowild, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=natgeowild_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=natgeohd_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Tlc, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=tlc_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=afc_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=foodplanet_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=abcnews_glo, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=aljazeera_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Bbcnews, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=bbcnews_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=bloomberg_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=cbshd_glo, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=cbsn_glo, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=CGTN, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=cna, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=cnbc_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Cnn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=cnn_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=dw_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=foxnews_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=france24_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=nhkworld_japan, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=skynews_antik, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=ettvcaijing_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Animax, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Babytv, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=babytv_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=boomerang_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Boomerang, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Cbeebies, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Cn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=disneytwn_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=KidsTV, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=MiaoMi, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=momo1_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Nickjr, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Nickelodeon, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=yoyo_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=jingtiancartoon_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=amarin_pat, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=ch8_pat, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=ch3_pat, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=ch5_pat, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=ch7_pat, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=gmmchannel_pat, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=gmmone_pat, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=mcot_pat, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=mono_pat, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=nation_pat, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=nbt_pat, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=new_pat, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=pptv_pat, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=tptv_pat, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=thaithai_pat, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=thairath_pat, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=tnn24_pat, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=workpoint_pat, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=tpbs_pat, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=aljazeera_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=AnimalPlanet, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Axn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=bbc1_antik, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=bbc2_antik, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=bbcearth_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=bbclifestyle_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=bbcworldnews_antik, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=bloomberg_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Boomerang, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=cbbc_antik, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Cbeebies, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=CGTN, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=cnbc_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=channel4_antik, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=dw_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=euronews_antik, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=france24_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=freesports_antik, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Hbo, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=HGTV, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=History, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Hitsmovie, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=KidsTV, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=mtvhd_twn, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=more4_antik, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=nhkworld_japan, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Natgeo, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Natgeowild, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Nickjr, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Nickelodeon, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=picktv_antik, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=skynews_antik, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=tiankongarena, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=tiankongcricket, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=tiankongepl, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=tiankongf1, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=tiankongfootball, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=tiankonggolf, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=tiankongmain, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=tiankongnews, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=starmovies_raj, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Tlc, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=Thrill, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=WarnerTV, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=itv1_antik, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=itv2_antik, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=viet_antv, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=viet_bptv2, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=viet_brt, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=viet_camautv, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=viet_danangtv1, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=viet_danangtv2, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=viet_hbtv, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=viet_htv7, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=viet_htv9, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=viet_ptth1, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=viet_vtv1, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=viet_vtv7, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=allthekpop_korea, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=appongoogle_korea, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=arirang_korea, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=cbs_korea, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=cgntv_korea, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=ebs1_korea, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=ebskids_korea, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=ebsplus2_korea, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=ebs2_korea, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=jthekpop_korea, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=kbsworld24_korea, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=sbsplus_korea, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=ytndmb_korea, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=ytnkorean_korea, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=ytnscience_korea, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=ytn_korea, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=yonhapnews_korea, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=bstbs_japan, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=bs181_japan, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=bsfuji_japan, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=cna_japan, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=jettv_japan, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=nhkosaka_japan, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=nhkworld_japan, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=nhke_japan, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=nhkg_japan, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=nhkbs1_japan, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=nhkpremium_japan, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=tokyomx_japan, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=asahitv_japan, 无法访问
-未知频道, http://fm1077.serv00.net/Smart.php?id=tokyotv_japan, 无法访问
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000001/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000502/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000003/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000503/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000005/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000507/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000006/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000504/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000008/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000505/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000506/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000508/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000509/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000510/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000511/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000512/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000016/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::9]:80/270000001128/9900000513/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000516/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000523/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000518/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000025/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000530/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000514/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000527/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000529/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000520/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000034/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000524/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000525/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000057/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000027/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000531/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000037/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000522/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::9]:80/270000001128/9900000053/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000519/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000036/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000526/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000517/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000521/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000044/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000047/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000026/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000030/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000023/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000035/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/1.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000042/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000045/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000043/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000060/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000059/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000073/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000064/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000058/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000066/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000046/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000071/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000072/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000067/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000528/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000515/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031112/1.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226203/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226176/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000026105/1.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000040/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000039/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031203/1.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031206/index.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=3# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031209/1.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031114/1.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031113/1.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000025964/1.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000097/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:5e01:24::16]:6610/000000001000/2000000003000000066/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000066&IASHttpSessionId=OTT19019320240419154124000281# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000070/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000069/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000096/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000095/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000119/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000118/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000120/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000020/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000021/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000022/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000092/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000115/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000101/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000107/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000113/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000099/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000102/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000109/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000108/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000100/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000110/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000116/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000091/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000122/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000019/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000112/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:74d9:21::6]:80/270000001128/9900000098/index.m3u8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&IASHttpSessionId=OTT19019320240419154124000281# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000012&IASHttpSessionId=OTT19019320240419154124000281# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001&IASHttpSessionId=OTT19019320240419154124000281# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000010&IASHttpSessionId=OTT19019320240419154124000281# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000090/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000090&IASHttpSessionId=OTT19019320240419154124000281# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000014&IASHttpSessionId=OTT19019320240419154124000281# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.129:8008# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.60:8084# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.172:8001# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.105:8092# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.173:8001# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.174:8001# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.61:8104# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.175:8001# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.62:8112# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.63:8116# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.152:8120# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.64:8124# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.124:8128# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.65:8132# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.153:8136# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.184:8001# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.151:8144# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.245:2000# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.213:4220# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.214:4220# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.130:8004# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.57:8152# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.215:4220# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.216:4220# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.218:4220# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.217:4220# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.241:8000# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.136:8032# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.132:8012# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.137:8036# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.135:8028# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.123:8164# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.148:8072# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.134:8020# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.138:8044# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.148:8072# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.211:8064# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.209:8052# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.142:8048# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.149:8076# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.210:8056# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.122:8160# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.133:8016# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.240:8172# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.156:8148# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.159:8000# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.115:8000# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.117:8000# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.242:8000# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.158:8000# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.235:8000# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.243:8000# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.115:8000# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.189:8000# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.58:8156# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.212:8060# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.207:8001# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.203:8001# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.202:8001# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.204:8001# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.206:8001# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.208:8001# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.205:8001# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.201:8001# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.165:8001# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.164:8001# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.125:8001# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.126:8001# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.127:8001# , 无法访问, 2024-12-21 15:08:11
+未知频道, #rtp://239.3.1.128:8001# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=axn_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=cinemax_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=eyetvxiju_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=eyetvtravel_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=hbohd_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=fyi_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=hollywoodmovies_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=mtvhd_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=tlc_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=ettvnews# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=tvbs# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=tvbs_n# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=tvbshuanle_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=sanlitaiwan# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=sanlixiju_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=sanlizhonghe# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=ctiasia_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=ctient# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=ctinews# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=ctizhonghe# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=asiatravel_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=afc_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=badadrama# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=badafirst# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=badazhonghe# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=ctv_taiwan# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=ftvhd_taiwan# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=lunghuajingdian_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=ftvtaiwan_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=ftvnew_taiwan# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=ttv_taiwan# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=ttvnews_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=zhongshihd_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=zhongshinews_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=zhongshi_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=ctshd_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=weishichinese_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=daai_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=huanyuxinwen_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=huanyutaiwan_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=niandainews_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=eltayingju_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=eltasport_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=eltasport2_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=eltasport3_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=golfchannel_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=bositennis_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=bosisport1_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=bosisport2_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=bosigolf1_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=bosigolf2_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=discoverytwn_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=discoveryturbo_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=natgeohd_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=natgeowild_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=animalplanet_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=fashiontv_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=discoverytwn_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=discoveryhd_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=ettvdrama# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=ettvwestern# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=ettvzhonghe# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=ettvcaijing_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=ettvmovie# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=videolandjapan# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=videolandsport# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=meiyamovie_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=bbcnews_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=bloomberg_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=foxnews_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=arirang_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=momo1_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=jingtiancartoon_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=jingtianintl_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=feifannews_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=lungxiangtime_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=lunghuaidol_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=lunghuaxiju_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=lunghuawestern_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=lunghuajingdian_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=xingwei_movie# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=TV1# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=TV1_backup# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=TV2# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=TV3# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=tv3_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=NTV7# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=TV8# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=TV9# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Warna-O# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Warna# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Ria-0# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Ria49# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Ria_quanjia# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Alhijrah# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Alhijrah_backup# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Awani# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Bernama# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Prima-0# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Prima49# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Ceria# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=AstroMTV# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=quran_mido# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=sunnah_mido# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Oasis# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Hbo# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Hbosignature# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Hbohits# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Natgeowild# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Cn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Nickelodeon# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Nickjr# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Citra# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Sensasi# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Aura# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Rania# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Boo# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Awesome_mega# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=SetOne# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=KBS# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=TVN# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Astropremier# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=AEC# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Wlt# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Huahee# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Huahee_backup# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Quanjia# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Tvbjade# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Tvbasia# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Tvbentertainment# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Tvbclassic# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=AodHD# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=One_mega# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Xinhe# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Qiyi# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=AnimalPlanet# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Tvnmovie# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=cnn_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Celestial2# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=cnbc_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Rtmsport# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Tlc# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=cna# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=asiatravel_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=bbcnews_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Foodnetwork_mega# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=HGTV# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Arena# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Goshop# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Celestial_mega# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Arena2# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Axn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Paramountnetwork# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Bolaarena1# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Kplus# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Rockaction# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=bloomberg_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=aljazeera_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Rockentertain# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Showcase_mega# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Bolaarena2# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Channel5HD# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Ch5_mega# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Channel8HD# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Ch8_mega# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Suria# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Suria_backup# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=ChannelU# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=ChU_mega# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Vasantham# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Vasantham_mega# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=cna# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=cna_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=TVRI# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Rcti# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Kompass# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=BeritaSatu_eko# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Indosiar# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Antv# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Mnctv# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Trans7_eko# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Transtv# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=JTV_eko# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=metrotv_eko# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Cinemax# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=SCTV# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Tvone# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=TVMU_eko# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Gtv# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Rtv# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=JakTV# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Inewstv# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=DaaiTV# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=NetTV# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Animax# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Ewtn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=AlQuran# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=TawafTV# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=VisionPrime# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=MuslimTV# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=MusicTV# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Lifestyle# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Entertain# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Hits# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=WarnerTV# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Weishimovie# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Thrill# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Fs# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Bein2hd# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Hitsmovie# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=One_mega# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Tvnmovie# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Celestialindo# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Rockaction# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Rockentertain# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=j2_hkdavid# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=j2_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=rhk31_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=rhk32_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=tvbxinhe_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=viu1_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=viutv69_hkdavid# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=viusix_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=inews_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=tvbcaijing_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=pearl_hkdavid# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=pearl_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=jade_mike# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=jade_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=phoenixtv_hd# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=phoenixinfo_hd# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=hkphoenix_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=cctv1# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=cctv2# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=cctv3# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=cctv4# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Cctv4# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=cctv5# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=cctv5plus# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=cctv6# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=cctv7# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=cctv8hd# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=cctv9hd# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=cctv10hd# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=cctv11# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=cctv12# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=cctv13# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=cctv14# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=cctv15# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=cctv16# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=cctv17# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=hunan_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=jiangsu_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=shenzhen# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=nanfang_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=guangdongweishi_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=beijing# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=zhujiang# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=guangxi# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=hubei# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=sichuan_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=phoenixtv_hd# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=dongfangweishi_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=CGTN# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=phoenixinfo_hd# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Assp1# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=go_assp1# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Assp1_mega# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Assp2# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=go_assp2# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Assp3# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=go_assp3# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Assp3_mega# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Assp4_mega# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=go_assp4# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=go_assp5# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Beinhd# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Besports# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Champion5epl# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Wwe# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Champion6epl# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Fs# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=ufc_mega# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=nbatv_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Acricket_mega# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Agolf# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=beeone# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=beetwo# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=beethree# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=beefour# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=ten1_raj# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=ten2_raj# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=ten3_raj# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=go_spotv# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=go_spotv2# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Bein2hd# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=tiankongarena# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=tiankongf1# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=tiankongcricket# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=tiankongepl# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=tiankongfootball# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=tiankonggolf# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=tiankongmain# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=tiankongnews# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=tiankongnfl# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=tiankongracing# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=tiankongmix# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=cctv5# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=cctv5plus# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=eltasport2_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=eltasport3_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Rtmsport# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Arena# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Arena2# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Bolaarena1# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=bein1_mega# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=bein2_mega# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=bein3_mega# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=bein4_mega# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=bein5_mega# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=bein6_mega# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=bein7_mega# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Rugbypasstv# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Bolaarena2# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Suntv# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Starvijay# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Colorstam_mega# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Sunmusic# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Sunlife# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Vaanavil# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Zeetamil# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Zeebusiness# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=news18tamil_raj# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Adithya# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Makkaltv# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Zeeaction# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Astroktv# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Zeetvhd# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Zeecinemahd# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Colorhd# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Starplushd# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Npicture# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Zeenews# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=asianet_raj# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=asianetnews_raj# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=timesnow_mega# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=bbcearthtam_raj# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=discoveryworldtam_raj# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=historytam_raj# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=natgeotamil_raj# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=natgeowildtamil_raj# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=discoverykidtamil_raj# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=discoverytamil_raj# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=sonyyaytam_raj# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=suntv_raj# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=starmaa_raj# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=starmaamovies_raj# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Bollyone# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Sunmusic# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=sonypix_mega# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=vijaysuper_raj# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=axn_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Animax# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Kplus# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Axn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=cctv6# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=cinemax_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Celestial2# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Celestialindo# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Cinemax# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Hbofamily# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Hbo# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Hbohits# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Hbosignature# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=hbohd_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=hbohits_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Hitsmovie# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Hits# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=hollywoodmovies_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=moviesnow_raj# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=One_mega# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Paramountnetwork# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Rockaction# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Rockentertain# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Weishimovie# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=sonypix_mega# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=starmovies_raj# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Thrill# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=WarnerTV# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Tvnmovie# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=catchplay_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=xingwei_movie# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=ettvwestern# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=ettvmovie# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=meiyamovie_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=lunghuawestern_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=lungxiangtime_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=asiatravel_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=AnimalPlanet# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=animalplanet_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=asiatravel_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=bbcearth_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=bbclifestyle_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=ci_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=discoverytwn_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=discoveryhd_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=fashiontv_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Foodnetwork_mega# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=HGTV# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=History# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=mtvhd_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Natgeo# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Natgeowild# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=natgeowild_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=natgeohd_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Tlc# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=tlc_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=afc_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=foodplanet_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=abcnews_glo# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=aljazeera_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Bbcnews# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=bbcnews_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=bloomberg_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=cbshd_glo# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=cbsn_glo# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=CGTN# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=cna# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=cnbc_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Cnn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=cnn_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=dw_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=foxnews_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=france24_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=nhkworld_japan# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=skynews_antik# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=ettvcaijing_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Animax# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Babytv# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=babytv_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=boomerang_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Boomerang# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Cbeebies# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Cn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=disneytwn_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=KidsTV# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=MiaoMi# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=momo1_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Nickjr# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Nickelodeon# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=yoyo_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=jingtiancartoon_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=amarin_pat# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=ch8_pat# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=ch3_pat# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=ch5_pat# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=ch7_pat# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=gmmchannel_pat# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=gmmone_pat# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=mcot_pat# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=mono_pat# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=nation_pat# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=nbt_pat# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=new_pat# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=pptv_pat# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=tptv_pat# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=thaithai_pat# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=thairath_pat# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=tnn24_pat# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=workpoint_pat# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=tpbs_pat# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=aljazeera_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=AnimalPlanet# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Axn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=bbc1_antik# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=bbc2_antik# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=bbcearth_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=bbclifestyle_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=bbcworldnews_antik# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=bloomberg_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Boomerang# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=cbbc_antik# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Cbeebies# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=CGTN# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=cnbc_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=channel4_antik# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=dw_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=euronews_antik# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=france24_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=freesports_antik# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Hbo# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=HGTV# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=History# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Hitsmovie# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=KidsTV# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=mtvhd_twn# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=more4_antik# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=nhkworld_japan# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Natgeo# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Natgeowild# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Nickjr# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Nickelodeon# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=picktv_antik# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=skynews_antik# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=tiankongarena# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=tiankongcricket# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=tiankongepl# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=tiankongf1# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=tiankongfootball# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=tiankonggolf# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=tiankongmain# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=tiankongnews# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=starmovies_raj# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Tlc# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=Thrill# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=WarnerTV# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=itv1_antik# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=itv2_antik# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=viet_antv# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=viet_bptv2# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=viet_brt# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=viet_camautv# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=viet_danangtv1# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=viet_danangtv2# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=viet_hbtv# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=viet_htv7# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=viet_htv9# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=viet_ptth1# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=viet_vtv1# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=viet_vtv7# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=allthekpop_korea# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=appongoogle_korea# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=arirang_korea# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=cbs_korea# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=cgntv_korea# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=ebs1_korea# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=ebskids_korea# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=ebsplus2_korea# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=ebs2_korea# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=jthekpop_korea# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=kbsworld24_korea# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=sbsplus_korea# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=ytndmb_korea# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=ytnkorean_korea# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=ytnscience_korea# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=ytn_korea# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=yonhapnews_korea# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=bstbs_japan# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=bs181_japan# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=bsfuji_japan# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=cna_japan# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=jettv_japan# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=nhkosaka_japan# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=nhkworld_japan# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=nhke_japan# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=nhkg_japan# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=nhkbs1_japan# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=nhkpremium_japan# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=tokyomx_japan# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=asahitv_japan# , 无法访问, 2024-12-21 15:08:11
+未知频道, #http://fm1077.serv00.net/Smart.php?id=tokyotv_japan# , 无法访问, 2024-12-21 15:08:11
