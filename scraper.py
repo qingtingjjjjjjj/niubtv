@@ -14,26 +14,35 @@ URL = "https://epg.pw/test_channel_page.html"
 TIMEOUT = 5  # 设置请求超时时间（秒）
 VALID_THRESHOLD = 2  # 响应时间阈值，2秒以内视为有效
 
-# 自动安装依赖
-def install_requirements():
-    try:
-        subprocess.check_call([sys.executable, "-m", "pip", "install", "-r", "requirements.txt"])
-        logging.info("Successfully installed dependencies.")
-    except subprocess.CalledProcessError as e:
-        logging.error(f"Failed to install dependencies: {e}")
-        sys.exit(1)
-
-# 生成 requirements.txt
+# 自动生成并检查 requirements.txt 文件
 def generate_requirements():
     dependencies = [
         "aiohttp",
         "beautifulsoup4"
     ]
     
-    with open("requirements.txt", "w") as f:
-        for dep in dependencies:
-            f.write(f"{dep}\n")
-    logging.info("Generated requirements.txt")
+    try:
+        with open("requirements.txt", "w") as f:
+            for dep in dependencies:
+                f.write(f"{dep}\n")
+        logging.info("已生成 requirements.txt 文件。")
+    except Exception as e:
+        logging.error(f"生成 requirements.txt 文件时出错：{e}")
+        sys.exit(1)
+
+# 自动安装依赖
+def install_requirements():
+    # 检查并生成 requirements.txt 文件
+    if not os.path.exists("requirements.txt"):
+        logging.warning("requirements.txt 文件不存在，正在自动生成...")
+        generate_requirements()
+    
+    try:
+        subprocess.check_call([sys.executable, "-m", "pip", "install", "-r", "requirements.txt"])
+        logging.info("成功安装依赖。")
+    except subprocess.CalledProcessError as e:
+        logging.error(f"安装依赖失败：{e}")
+        sys.exit(1)
 
 # 发送GET请求获取网页内容
 async def fetch_page_content():
