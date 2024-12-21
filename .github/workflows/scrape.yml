@@ -31,18 +31,18 @@ jobs:
 
     - name: Run scraper
       run: |
-        python scraper.py  # 执行你的爬虫脚本
+        python scraper.py  # 执行爬虫脚本
 
-    - name: List files in the repository
-      run: ls -R  # 列出所有文件，确认 live_streams/ 目录是否存在
+    - name: List files in the live_streams directory
+      run: ls -R live_streams  # 列出 live_streams 目录下的文件，确认文件是否已生成
 
     - name: Check git status
       run: git status  # 查看 git 状态，确保文件变动
 
     - name: Commit and push changes
-      uses: EndBug/add-and-commit@v9  # 使用 GitHub Actions 提交更改
+      uses: EndBug/add-and-commit@v9
       with:
         author_name: 'GitHub Actions'  # 提交者名称
         author_email: 'actions@github.com'  # 提交者邮箱
         message: 'Update live stream data'  # 提交信息
-        add: 'live_streams/*'  # 提交 live_streams 目录下的所有更改
+        add: '.'  # 提交所有更改
