@@ -6,6 +6,7 @@ import re  # 用于正则匹配直播源链接
 from bs4 import BeautifulSoup
 import subprocess
 import sys
+import time  # 用于测量响应时间
 
 # 设置日志记录
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -165,22 +166,3 @@ def save_to_files(white_list, black_list, base_path="live_streams"):
     logging.info(f"黑名单保存至 {black_file}")
 
 # 主程序
-async def main():
-    install_requirements()  # 确保安装依赖
-
-    for url in URLS:
-        html_content = await fetch_page_content(url)
-        
-        if html_content:
-            live_sources = parse_live_sources(html_content, url)
-            if live_sources:
-                white_list, black_list = await test_and_categorize(live_sources)
-                save_to_files(white_list, black_list)
-            else:
-                logging.warning(f"未找到任何直播源，来自 {url}。")
-        else:
-            logging.error(f"无法获取网页内容，来自 {url}，程序终止。")
-
-# 启动爬虫程序
-if __name__ == "__main__":
-    asyncio.run(main())
