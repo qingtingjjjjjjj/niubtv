@@ -21,21 +21,21 @@ def ensure_requirements_file():
         "beautifulsoup4"
     ]
     
-    try:
-        if not os.path.exists("requirements.txt"):
+    if not os.path.exists("requirements.txt"):
+        try:
             with open("requirements.txt", "w") as f:
                 for dep in dependencies:
                     f.write(f"{dep}\n")
-            logging.info("requirements.txt 文件已创建。")
-        else:
-            logging.info("requirements.txt 文件已存在。")
-    except Exception as e:
-        logging.error(f"创建 requirements.txt 文件时出错：{e}")
-        sys.exit(1)
+            logging.info("requirements.txt 文件已创建并写入依赖。")
+        except Exception as e:
+            logging.error(f"创建 requirements.txt 文件时出错：{e}")
+            sys.exit(1)
+    else:
+        logging.info("requirements.txt 文件已存在，跳过创建。")
 
 # 自动安装依赖
 def install_requirements():
-    ensure_requirements_file()  # 确保文件存在
+    ensure_requirements_file()  # 确保 requirements.txt 文件存在
     try:
         subprocess.check_call([sys.executable, "-m", "pip", "install", "-r", "requirements.txt"])
         logging.info("依赖已成功安装。")
