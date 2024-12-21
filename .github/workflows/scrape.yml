@@ -25,9 +25,19 @@ jobs:
         pip install beautifulsoup4  # 安装 BeautifulSoup 库
         pip install -r requirements.txt  # 安装 requirements.txt 中的其他依赖
 
+    - name: Create live_streams directory
+      run: |
+        mkdir -p live_streams  # 自动创建 live_streams 目录
+
     - name: Run scraper
       run: |
         python scraper.py  # 执行你的爬虫脚本
+
+    - name: List files in the repository
+      run: ls -R  # 列出所有文件，确认 live_streams/ 目录是否存在
+
+    - name: Check git status
+      run: git status  # 查看 git 状态，确保文件变动
 
     - name: Commit and push changes
       uses: EndBug/add-and-commit@v9  # 使用 GitHub Actions 提交更改
