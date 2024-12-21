@@ -14,32 +14,33 @@ URL = "https://epg.pw/test_channel_page.html"
 TIMEOUT = 5  # 设置请求超时时间（秒）
 VALID_THRESHOLD = 2  # 响应时间阈值，2秒以内视为有效
 
-# 自动生成并检查 requirements.txt 文件
-def generate_requirements():
+# 自动生成 requirements.txt 文件
+def ensure_requirements_file():
     dependencies = [
         "aiohttp",
         "beautifulsoup4"
     ]
     
-    try:
-        with open("requirements.txt", "w") as f:
-            for dep in dependencies:
-                f.write(f"{dep}\n")
-        logging.info("已生成 requirements.txt 文件。")
-    except Exception as e:
-        logging.error(f"生成 requirements.txt 文件时出错：{e}")
-        sys.exit(1)
+    if not os.path.exists("requirements.txt"):
+        logging.info("requirements.txt 文件不存在，正在创建...")
+        try:
+            with open("requirements.txt", "w") as f:
+                for dep in dependencies:
+                    f.write(f"{dep}\n")
+            logging.info("requirements.txt 文件已成功创建。")
+        except Exception as e:
+            logging.error(f"创建 requirements.txt 文件时出错：{e}")
+            sys.exit(1)
+    else:
+        logging.info("requirements.txt 文件已存在，无需创建。")
 
 # 自动安装依赖
 def install_requirements():
-    # 检查并生成 requirements.txt 文件
-    if not os.path.exists("requirements.txt"):
-        logging.warning("requirements.txt 文件不存在，正在自动生成...")
-        generate_requirements()
+    ensure_requirements_file()  # 确保 requirements.txt 文件存在
     
     try:
         subprocess.check_call([sys.executable, "-m", "pip", "install", "-r", "requirements.txt"])
-        logging.info("成功安装依赖。")
+        logging.info("依赖安装成功。")
     except subprocess.CalledProcessError as e:
         logging.error(f"安装依赖失败：{e}")
         sys.exit(1)
@@ -152,8 +153,8 @@ def save_to_files(white_list, black_list, base_path="live_streams"):
 
 # 主程序
 async def main():
-    # 生成并安装依赖
-    generate_requirements()
+    # 确保依赖文件和安装
+    ensure_requirements_file()
     install_requirements()
 
     html_content = await fetch_page_content()
