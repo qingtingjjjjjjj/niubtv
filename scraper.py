@@ -3,9 +3,6 @@ import asyncio
 import os
 import logging
 import re  # 用于正则匹配直播源链接
-from bs4 import BeautifulSoup
-import subprocess
-import sys
 import time  # 用于测量响应时间
 
 # 设置日志记录
@@ -14,7 +11,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 # 目标URL列表
 URLS = [
     "http://175.178.251.183:6689/aktvlive.txt",
-    "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+    "https://live.fanming.com/tv/m3u/ipv6.m3u",
     "https://raw.githubusercontent.com/yuanzl77/IPTV/main/直播/央视频道.txt",
     "http://120.79.4.185/new/mdlive.txt",
     "https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V4.txt",
@@ -122,6 +119,21 @@ def parse_live_sources(html_content, url):
     
     return live_sources
 
+# 测试直播源响应速度
+async def test_speed(url):
+    try:
+        async with aiohttp.ClientSession() as session:
+            start_time = time.time()  # 记录开始时间
+            async with session.get(url, timeout=TIMEOUT) as response:
+                elapsed_time = time.time() - start_time  # 计算响应时间
+                if response.status == 200:
+                    return response.status, url, elapsed_time
+                else:
+                    return response.status, url, None
+    except Exception as e:
+        logging.error(f"测试 {url} 时出错：{e}")
+        return None, url, None
+
 # 根据响应时间分类
 async def test_and_categorize(live_sources):
     white_list = []
@@ -166,3 +178,12 @@ def save_to_files(white_list, black_list, base_path="live_streams"):
     logging.info(f"黑名单保存至 {black_file}")
 
 # 主程序
+async def main():
+    live_sources = []
+    
+    # 获取网页内容并提取直播源
+    for url in URLS:
+        logging.info(f"正在处理 URL：{url}")
+        html_content = await fetch_page_content(url)
+        if html_content:
+            sources = parse_live_sources(html_content
