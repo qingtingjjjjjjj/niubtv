@@ -2,8 +2,8 @@ import aiohttp
 import asyncio
 import os
 import logging
-import re  # 用于正则匹配直播源链接
-from bs4 import BeautifulSoup
+import re
+from datetime import datetime
 import subprocess
 import sys
 
@@ -136,15 +136,16 @@ async def test_and_categorize(live_sources):
     results = await asyncio.gather(*tasks)
     
     for (name, url), (status, _, elapsed) in zip(live_sources, results):
+        timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         if status == 200 and elapsed is not None:
             if elapsed <= VALID_THRESHOLD:
-                white_list.append(f"{name}, {url}, {elapsed}s")
+                white_list.append(f"{name}, #{category}# , {url}, {elapsed}s, {timestamp}")
                 logging.info(f"有效：{name} ({url}) 响应时间：{elapsed}s")
             else:
-                black_list.append(f"{name}, {url}, {elapsed}s")
+                black_list.append(f"{name}, #{category}# , {url}, {elapsed}s, {timestamp}")
                 logging.warning(f"无效（响应过慢）：{name} ({url}) 响应时间：{elapsed}s")
         else:
-            black_list.append(f"{name}, {url}, 无法访问")
+            black_list.append(f"{name}, #{category}# , {url}, 无法访问, {timestamp}")
             logging.warning(f"无效（无法访问）：{name} ({url})")
     
     return white_list, black_list
@@ -168,6 +169,20 @@ def save_to_files(white_list, black_list, base_path="live_streams"):
     logging.info(f"白名单保存至 {white_file}")
     logging.info(f"黑名单保存至 {black_file}")
 
+# 获取分类信息
+def classify_channel(name):
+    name = name.lower()
+    if '新闻' in name:
+        return '新闻频道'
+    elif '体育' in name:
+        return '体育频道'
+    elif '地方' in name:
+        return '地方频道'
+    elif '娱乐' in name:
+        return '娱乐频道'
+    else:
+        return '其他频道'
+
 # 主程序
 async def main():
     install_requirements()  # 确保安装依赖
@@ -180,7 +195,9 @@ async def main():
         html_content = await fetch_page_content(url)
         if html_content:
             sources = parse_live_sources(html_content, url)
-            live_sources.extend(sources)
+            for name, url in sources:
+                category = classify_channel(name)
+                live_sources.append((name, url, category))
     
     # 分类并保存结果
     white_list, black_list = await test_and_categorize(live_sources)
