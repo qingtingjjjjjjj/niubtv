@@ -3,15 +3,17 @@ import asyncio
 import os
 import logging
 import re  # 用于正则匹配直播源链接
-import time  # 用于测量响应时间
+from bs4 import BeautifulSoup
+import subprocess
+import sys
 
 # 设置日志记录
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-# 目标URL列表
+# 直播源接口列表
 URLS = [
     "http://175.178.251.183:6689/aktvlive.txt",
-    "https://live.fanming.com/tv/m3u/ipv6.m3u",
+    "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
     "https://raw.githubusercontent.com/yuanzl77/IPTV/main/直播/央视频道.txt",
     "http://120.79.4.185/new/mdlive.txt",
     "https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V4.txt",
@@ -82,6 +84,16 @@ async def fetch_page_content(url):
         logging.error(f"获取网页内容时出错，来自 {url}：{e}")
         return None
 
+# 测试直播源响应时间
+async def test_speed(url):
+    try:
+        async with aiohttp.ClientSession() as session:
+            async with session.get(url, timeout=TIMEOUT) as response:
+                return response.status, response.url, response.elapsed.total_seconds()
+    except Exception as e:
+        logging.error(f"测试直播源 {url} 时出错：{e}")
+        return None, url, None
+
 # 正则表达式用于匹配直播源格式（http, rtmp, p3p, rtp 等）
 def match_live_source(url):
     patterns = [
@@ -93,7 +105,6 @@ def match_live_source(url):
         r'p2p://'    # p2p
     ]
     
-    logging.info(f"正在检查链接：{url}")  # 打印出所有的链接
     for pattern in patterns:
         if re.match(pattern, url):
             return True
@@ -103,36 +114,19 @@ def match_live_source(url):
 def parse_live_sources(html_content, url):
     live_sources = []
     
-    logging.info(f"开始解析网页内容，来自 {url}...")
-    
-    if url.endswith(".txt") or url.endswith(".m3u"):
-        # 如果是文本文件类型，读取并提取链接
-        links = html_content.splitlines()
-        logging.info(f"找到 {len(links)} 个链接，开始筛选直播源...")
-        for link in links:
-            if match_live_source(link):
-                live_sources.append((link, link))
-                logging.info(f"发现直播源：{link} - 来自 {url}")
+    # 解析每个 URL 的直播源内容
+    if url.endswith(".txt") or url.endswith(".m3u"):  # 假设直播源是直接在文本文件中的
+        lines = html_content.splitlines()
+        for line in lines:
+            line = line.strip()
+            if match_live_source(line):
+                live_sources.append(('未知频道', line))  # 没有频道名称时默认使用 '未知频道'
+                logging.info(f"发现直播源：{line} 来自 {url}")
     
     if not live_sources:
         logging.warning(f"未找到任何符合条件的直播源，来自 {url}。")
     
     return live_sources
-
-# 测试直播源响应速度
-async def test_speed(url):
-    try:
-        async with aiohttp.ClientSession() as session:
-            start_time = time.time()  # 记录开始时间
-            async with session.get(url, timeout=TIMEOUT) as response:
-                elapsed_time = time.time() - start_time  # 计算响应时间
-                if response.status == 200:
-                    return response.status, url, elapsed_time
-                else:
-                    return response.status, url, None
-    except Exception as e:
-        logging.error(f"测试 {url} 时出错：{e}")
-        return None, url, None
 
 # 根据响应时间分类
 async def test_and_categorize(live_sources):
@@ -140,8 +134,6 @@ async def test_and_categorize(live_sources):
     black_list = []
     tasks = [test_speed(url) for _, url in live_sources]
     results = await asyncio.gather(*tasks)
-    
-    logging.info(f"开始分类直播源...")
     
     for (name, url), (status, _, elapsed) in zip(live_sources, results):
         if status == 200 and elapsed is not None:
@@ -155,7 +147,6 @@ async def test_and_categorize(live_sources):
             black_list.append(f"{name}, {url}, 无法访问")
             logging.warning(f"无效（无法访问）：{name} ({url})")
     
-    logging.info(f"白名单：{len(white_list)}，黑名单：{len(black_list)}")
     return white_list, black_list
 
 # 保存白名单和黑名单到文件
@@ -179,11 +170,22 @@ def save_to_files(white_list, black_list, base_path="live_streams"):
 
 # 主程序
 async def main():
+    install_requirements()  # 确保安装依赖
+
     live_sources = []
     
-    # 获取网页内容并提取直播源
+    # 获取每个 URL 的内容并提取直播源
     for url in URLS:
         logging.info(f"正在处理 URL：{url}")
         html_content = await fetch_page_content(url)
         if html_content:
-            sources = parse_live_sources(html_content
+            sources = parse_live_sources(html_content, url)
+            live_sources.extend(sources)
+    
+    # 分类并保存结果
+    white_list, black_list = await test_and_categorize(live_sources)
+    save_to_files(white_list, black_list)
+
+# 执行爬虫脚本
+if __name__ == "__main__":
+    asyncio.run(main())
