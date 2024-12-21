@@ -195,4 +195,10 @@ async def main():
     
     # 获取每个 URL 的内容并提取直播源
     for url in URLS:
-        logging.info(f
+        logging.info(f"正在处理：{url}")
+        html_content = await fetch_page_content(url)
+        if html_content:
+            sources = parse_live_sources(html_content, url)
+            # 假设没有频道名称时使用 '未知频道'
+            for name, live_url in sources:
+                category = classify_channel
