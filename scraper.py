@@ -132,11 +132,15 @@ def parse_live_sources(html_content, url):
 async def test_and_categorize(live_sources):
     white_list = []
     black_list = []
-    tasks = [test_speed(url) for _, url in live_sources]
+    
+    # 调整任务列表，仅传递 URL 给 test_speed
+    tasks = [test_speed(url) for _, url, _ in live_sources]  # 只取 `url`
     results = await asyncio.gather(*tasks)
     
-    for (name, url), (status, _, elapsed) in zip(live_sources, results):
+    for (name, url, category), (status, _, elapsed) in zip(live_sources, results):
         timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        
+        # 筛选出响应时间小于阈值的直播源（响应时间小于等于 2 秒的为有效）
         if status == 200 and elapsed is not None:
             if elapsed <= VALID_THRESHOLD:
                 white_list.append(f"{name}, #{category}# , {url}, {elapsed}s, {timestamp}")
@@ -191,18 +195,4 @@ async def main():
     
     # 获取每个 URL 的内容并提取直播源
     for url in URLS:
-        logging.info(f"正在处理 URL：{url}")
-        html_content = await fetch_page_content(url)
-        if html_content:
-            sources = parse_live_sources(html_content, url)
-            for name, url in sources:
-                category = classify_channel(name)
-                live_sources.append((name, url, category))
-    
-    # 分类并保存结果
-    white_list, black_list = await test_and_categorize(live_sources)
-    save_to_files(white_list, black_list)
-
-# 执行爬虫脚本
-if __name__ == "__main__":
-    asyncio.run(main())
+        logging.info(f
