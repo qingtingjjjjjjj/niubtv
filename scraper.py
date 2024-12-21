@@ -2,8 +2,8 @@ import aiohttp
 import asyncio
 import os
 import logging
-import re
 from datetime import datetime
+import re
 import subprocess
 import sys
 
@@ -42,8 +42,7 @@ VALID_THRESHOLD = 2  # 响应时间阈值，2秒以内视为有效
 # 自动生成 requirements.txt 文件并写入依赖
 def ensure_requirements_file():
     dependencies = [
-        "aiohttp",
-        "beautifulsoup4"
+        "aiohttp"
     ]
     
     if not os.path.exists("requirements.txt"):
@@ -67,22 +66,6 @@ def install_requirements():
     except subprocess.CalledProcessError as e:
         logging.error(f"安装依赖失败：{e}")
         sys.exit(1)
-
-# 获取网页内容
-async def fetch_page_content(url):
-    try:
-        async with aiohttp.ClientSession() as session:
-            async with session.get(url) as response:
-                if response.status == 200:
-                    html = await response.text()
-                    logging.info(f"获取网页内容成功，来自 {url}，内容如下：\n{html[:1000]}")  # 打印网页内容的前1000个字符
-                    return html
-                else:
-                    logging.error(f"获取网页内容失败，来自 {url}，状态码：{response.status}")
-                    return None
-    except Exception as e:
-        logging.error(f"获取网页内容时出错，来自 {url}：{e}")
-        return None
 
 # 测试直播源响应时间
 async def test_speed(url):
@@ -111,20 +94,25 @@ def match_live_source(url):
     return False
 
 # 解析网页内容并提取直播源
-def parse_live_sources(html_content, url):
+async def parse_live_sources(url):
     live_sources = []
-    
-    # 解析每个 URL 的直播源内容
-    if url.endswith(".txt") or url.endswith(".m3u"):  # 假设直播源是直接在文本文件中的
-        lines = html_content.splitlines()
-        for line in lines:
-            line = line.strip()
-            if match_live_source(line):
-                live_sources.append(('未知频道', line))  # 没有频道名称时默认使用 '未知频道'
-                logging.info(f"发现直播源：{line} 来自 {url}")
-    
-    if not live_sources:
-        logging.warning(f"未找到任何符合条件的直播源，来自 {url}。")
+    try:
+        async with aiohttp.ClientSession() as session:
+            async with session.get(url) as response:
+                if response.status == 200:
+                    html = await response.text()
+                    # 假设直播源是直接在文本文件中的
+                    lines = html.splitlines()
+                    for line in lines:
+                        line = line.strip()
+                        if match_live_source(line):
+                            live_sources.append(('未知频道', line))  # 没有频道名称时默认使用 '未知频道'
+                    if not live_sources:
+                        logging.warning(f"未找到任何符合条件的直播源，来自 {url}。")
+                else:
+                    logging.error(f"无法获取网页内容，来自 {url}，状态码：{response.status}")
+    except Exception as e:
+        logging.error(f"获取网页内容时出错，来自 {url}：{e}")
     
     return live_sources
 
@@ -134,22 +122,22 @@ async def test_and_categorize(live_sources):
     black_list = []
     
     # 调整任务列表，仅传递 URL 给 test_speed
-    tasks = [test_speed(url) for _, url, _ in live_sources]  # 只取 `url`
+    tasks = [test_speed(url) for _, url in live_sources]  # 只取 `url`
     results = await asyncio.gather(*tasks)
     
-    for (name, url, category), (status, _, elapsed) in zip(live_sources, results):
+    for (name, url), (status, _, elapsed) in zip(live_sources, results):
         timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         
         # 筛选出响应时间小于阈值的直播源（响应时间小于等于 2 秒的为有效）
         if status == 200 and elapsed is not None:
             if elapsed <= VALID_THRESHOLD:
-                white_list.append(f"{name}, #{category}# , {url}, {elapsed}s, {timestamp}")
+                white_list.append(f"{name}, #{url}# , {elapsed}s, {timestamp}")
                 logging.info(f"有效：{name} ({url}) 响应时间：{elapsed}s")
             else:
-                black_list.append(f"{name}, #{category}# , {url}, {elapsed}s, {timestamp}")
+                black_list.append(f"{name}, #{url}# , {elapsed}s, {timestamp}")
                 logging.warning(f"无效（响应过慢）：{name} ({url}) 响应时间：{elapsed}s")
         else:
-            black_list.append(f"{name}, #{category}# , {url}, 无法访问, {timestamp}")
+            black_list.append(f"{name}, #{url}# , 无法访问, {timestamp}")
             logging.warning(f"无效（无法访问）：{name} ({url})")
     
     return white_list, black_list
@@ -173,20 +161,6 @@ def save_to_files(white_list, black_list, base_path="live_streams"):
     logging.info(f"白名单保存至 {white_file}")
     logging.info(f"黑名单保存至 {black_file}")
 
-# 获取分类信息
-def classify_channel(name):
-    name = name.lower()
-    if '新闻' in name:
-        return '新闻频道'
-    elif '体育' in name:
-        return '体育频道'
-    elif '地方' in name:
-        return '地方频道'
-    elif '娱乐' in name:
-        return '娱乐频道'
-    else:
-        return '其他频道'
-
 # 主程序
 async def main():
     install_requirements()  # 确保安装依赖
@@ -196,9 +170,14 @@ async def main():
     # 获取每个 URL 的内容并提取直播源
     for url in URLS:
         logging.info(f"正在处理：{url}")
-        html_content = await fetch_page_content(url)
-        if html_content:
-            sources = parse_live_sources(html_content, url)
-            # 假设没有频道名称时使用 '未知频道'
-            for name, live_url in sources:
-                category = classify_channel
+        sources = await parse_live_sources(url)
+        live_sources.extend(sources)
+
+    # 分类和筛选直播源
+    white_list, black_list = await test_and_categorize(live_sources)
+
+    # 保存白名单和黑名单
+    save_to_files(white_list, black_list)
+
+if __name__ == "__main__":
+    asyncio.run(main())  # 执行主程序
